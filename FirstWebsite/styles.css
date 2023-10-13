@@ -1,0 +1,36 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("materials/pattern.jpeg")
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.bluetext {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#back1 {
+    background-color: mediumspringgreen;
+}
+
+#back2 {
+    background-color: lightcoral;
+}
+
+#back3 {
+    background-color: skyblue;
+}
